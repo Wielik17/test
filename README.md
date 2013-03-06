@@ -1,4 +1,4 @@
-test
+test NoSQL
 ====
 
-test działania
+1. Włodek Bzyl, [katastrofy]().
